@@ -1,0 +1,7 @@
+version: "3.7"
+services:
+  node:
+    image: test_fastai_app
+    ports:
+      - 5000:5000
+      
